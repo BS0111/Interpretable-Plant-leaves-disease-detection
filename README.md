@@ -1,4 +1,4 @@
-# 🌿 Plant Leaf Disease Detection with Explainable Visualizations
+# 🌿 An Interpretable Plant Leaf Disease Detection using Convolution Block Attention Mechanism
 
 This repository contains a deep learning pipeline for classifying plant leaf diseases using a modified VGG16 model enhanced with CBAM (Convolutional Block Attention Module). It also features explainability tools such as Grad-CAM, Grad-CAM++, and Layer-wise Relevance Propagation (LRP) to interpret model predictions.
 
