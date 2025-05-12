@@ -43,7 +43,7 @@ project/
 
 - ✅ CBAM-enhanced VGG16 for attention-aware learning  
 - ✅ Grad-CAM and Grad-CAM++ for post-hoc explanation  
-- ✅ LRP visualizations using Zennit framework  
+- ✅ LRP visualizations 
 - ✅ Well-structured and reproducible codebase  
 
 ---
